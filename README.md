@@ -69,7 +69,7 @@ to come
 
 ## Open in Google Colab
 
-1. Click to download the dataset: [national hockey league shots](https://www.kaggle.com/datasets/mexwell/national-hockey-league-shots)
+1. Download the dataset from kaggle: [national hockey league shots](https://www.kaggle.com/datasets/mexwell/national-hockey-league-shots)
    
 2. You can now open this notebook directly in Google Colab to run it without installing anything locally.
 
