@@ -75,7 +75,7 @@ to come
 
 a. Click the **Open in Colab** badge below:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/charleynas/Effective-and-Ineffective-Hockey-Shots/blob/main/NHL_shot_effectiveness.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/charleynas/Effective-and-Ineffective-Hockey-Shots/blob/main/Effective_vs_ineffective_shots.ipynb)
 
 b. Alternatively, you can open it manually:
    - Go to [Google Colab](https://colab.research.google.com/)
