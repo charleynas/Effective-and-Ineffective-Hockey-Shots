@@ -63,7 +63,8 @@ Below is the list of main features we used in this analysis:
 ---
 
 ## Results Summary  
-to come
+- goal differential and shot distance impacted the liklihood of a goal the most
+- tip-ins were the most effective shot type
 
 ---
 
