@@ -76,12 +76,12 @@ Below is the list of main features we used in this analysis:
 
 a. Click the **Open in Colab** badge below:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/charleynas/Effective-and-Ineffective-Hockey-Shots/blob/main/Effective_vs_ineffective_shots (1).ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/charleynas/Effective-and-Ineffective-Hockey-Shots/blob/main/Effective_vs_ineffective_shots_1.ipynb
 
 b. Alternatively, you can open it manually:
    - Go to [Google Colab](https://colab.research.google.com/)
    - Click the **GitHub** tab
-   - Paste this repository URL: `https://github.com/charleynas/Effective_vs_ineffective_shots (1).ipynb
+   - Paste this repository URL: `https://github.com/charleynas/Effective_vs_ineffective_shots_1.ipynb
    - Select the notebook you want to open
 
 
